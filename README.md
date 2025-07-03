@@ -1,1 +1,1 @@
-[查看PDF文件](./SEO Project)
+[view PDF](./SEO Project)
