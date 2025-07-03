@@ -1,1 +1,1 @@
-[view PDF](./‪C:\Users\HP\Desktop\supperlockers\SEO Project.pdf)
+[SEO Project.pdf](https://github.com/user-attachments/files/21034920/SEO.Project.pdf)
