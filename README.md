@@ -206,7 +206,7 @@ Opportunities for Supplocker
 
 Internal Content Audit
 
-![Alt text](pics/3.jpg)
+![Alt text](pics/6.jpg)
 
 Opportunities for Supplocker
 
