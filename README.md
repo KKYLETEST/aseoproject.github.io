@@ -44,28 +44,28 @@ Xml sitemap
  
 On-page: 
 
-			Relevant and concise title tags
-			Detailed content and eligible visual materials
-			Relevant keywords
+Relevant and concise title tags
+Detailed content and eligible visual materials
+Relevant keywords
 
 Cons: 
 
 Technical: 
 
-			No (clear) html sitemap
+No (clear) html sitemap
 			
 On-page: 
 
-      Has blog page with no content
-			No content marketing 
-      Some pages lack of metadata, and duplicate metadata and H1 
-      No long-tail keyword targeting
-      No UGC
+Has blog page with no content
+No content marketing 
+Some pages lack of metadata, and duplicate metadata and H1 
+No long-tail keyword targeting
+ No UGC
 
 Off-page: 
 
-			No good backlinks
-			No social media
+No good backlinks
+No social media
 
 
 
